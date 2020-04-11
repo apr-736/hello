@@ -1,2 +1,2 @@
 # hello
-second repository
+im still learning to do this 
